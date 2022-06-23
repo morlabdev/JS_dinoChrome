@@ -9,4 +9,5 @@ Juego del dinosurio de google chrome ampliado
 </div>
 # Vista previa
 <h3>Pantalla inicial</h3>
-<img src="./assets/img/imagen_dC.png" />
+<img src="./assets/img/inicio_dC.png" />
+<img src="./assets/img/gameOver_dC.png" />
