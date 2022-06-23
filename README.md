@@ -7,6 +7,11 @@ Juego del dinosurio de google chrome ampliado
     <a href="https://www.linkedin.com/in/israelmorenolabrador/"  target="_blank">Feedback</a>
   </h3>
 </div>
+
 # Vista previa
+
 <h3>Pantalla inicial</h3>
-<img src="./assets/img/imagen_dC.png" />
+<img src="./assets/img/inicio_dC.png" width="500px"/>
+
+<h3>Pantalla final</h3>
+<img src="./assets/img/gameOver_dC.png" width="500px"/>
