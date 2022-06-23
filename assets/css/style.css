@@ -13,6 +13,7 @@
   }
 
 body{
+    background-color: #35259f;
     background-image: linear-gradient(172deg, var(--blue-dark) 0%, var(--blue-light) 50%, var(--blue) 100%);
     height: 100vh;
     display: flex;
